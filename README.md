@@ -1,5 +1,7 @@
-# PID Control Self driving car
 ![Test Image 1](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/584463/1602395317/PID_Sucess.JPG)
+
+# PID Control Self driving car
+
 Control is how to use steering , throttle and breaks to move the car. Through calculating proportional term , differential term and integral term we can determine the steering angle and throttle.
 I implemented this project using C++.
 
