@@ -1,4 +1,5 @@
 # PID Control Self driving car
+![Test Image 1](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/584463/1602395317/PID_Sucess.JPG)
 Control is how to use steering , throttle and breaks to move the car. Through calculating proportional term , differential term and integral term we can determine the steering angle and throttle.
 I implemented this project using C++.
 
@@ -16,7 +17,7 @@ this component refers to Integral term. Integral term is to deal with systematic
 ---
 # calculate hyperparameters
 I choosed hyperparameters manually. by trying different values of hyperparameters until i found the best values to choose.
-
+---
 
 ## Dependencies
 
@@ -41,8 +42,8 @@ I choosed hyperparameters manually. by trying different values of hyperparameter
     Some function signatures have changed in v0.14.x. See [this PR](https://github.com/udacity/CarND-MPC-Project/pull/3) for more details.
 * Simulator. You can download these from the [project intro page](https://github.com/udacity/self-driving-car-sim/releases) in the classroom.
 
-Fellow students have put together a guide to Windows set-up for the project [here](https://s3-us-west-1.amazonaws.com/udacity-selfdrivingcar/files/Kidnapped_Vehicle_Windows_Setup.pdf) if the environment you have set up for the Sensor Fusion projects does not work for this project. There's also an experimental patch for windows in this [PR](https://github.com/udacity/CarND-PID-Control-Project/pull/3).
 
+---
 ## Basic Build Instructions
 
 1. Clone this repo.
